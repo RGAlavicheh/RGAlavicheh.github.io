@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - RGAlavicheh
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - RGAlavicheh/K-means-On-the-Association-of-Small-Cell-Base-Stations
+  - RGAlavicheh/Comparing-the-ergodic-capacity-between-MISO-and-SIMO-systems.
+  - RGAlavicheh/Simulation-of-Dipole-and-Horn-antennas-by-HFSS
+  - RGAlavicheh/Bearing-and-Range-Estimation
+  - RGAlavicheh/Monte-Carlo-simulation-to-show-convergence-of-an-RV
+  - RGAlavicheh/MIMO-Performance-comparison
+  - RGAlavicheh/Maximum-Likelihood-Estimation
