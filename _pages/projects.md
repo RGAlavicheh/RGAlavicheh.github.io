@@ -5,8 +5,8 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [type1, type2]
-horizontal: false
+display_categories: [MSc, other]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
