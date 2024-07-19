@@ -2,7 +2,7 @@
 layout: page
 title: MC simulation to show convergence of an RV
 description: 
-img: 
+img: assets/img/MC_sim.png
 importance: 6
 category: type1
 related_publications: false
