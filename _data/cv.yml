@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: 
+      value: Reza Ghasemi Alavicheh
     - name: Date of Birth
       value: 
     - name: Languages
-      value: English
+      value: English, Persian
 
 - title: Education
   type: time_table
   contents:
-    - title: 
-      institution: 
-      year: 
+    - title: MSc
+      institution: Iran University of Science and Technology (IUST), Tehran, Iran
+      year: 2023
       description:
         - Description 1.
         - Description 2.
@@ -33,7 +33,7 @@
   contents:
     - title: 
       institution: 
-      year: 
+      year: 2019
       description:
         - Description 1.
         - Description 2.
@@ -41,8 +41,8 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: 
-      institution: 
+    - title: BSc
+      institution: Sadra University, Tehran, Iran
       year: 
       description:
         - Description 1.
