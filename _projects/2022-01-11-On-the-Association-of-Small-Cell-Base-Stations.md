@@ -3,7 +3,7 @@ layout: page
 title: Association of Small Cell Base Stations
 description: 
 img: assets/img/p1.png
-importance: 3
+importance: 2
 category: MSc
 related_publications: false
 giscus_comments: false

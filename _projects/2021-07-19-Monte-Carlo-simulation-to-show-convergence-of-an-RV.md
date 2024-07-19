@@ -3,7 +3,7 @@ layout: page
 title: MC simulation to show convergence of an RV
 description: 
 img: 
-importance: 1
+importance: 6
 category: type1
 related_publications: false
 giscus_comments: false

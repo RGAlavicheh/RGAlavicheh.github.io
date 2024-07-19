@@ -3,7 +3,7 @@ layout: page
 title: Performance Comparison of MIMO
 description: 
 img: assets/img/mimo_perf.png
-importance: 2
+importance: 5
 category: MSc
 related_publications: false
 giscus_comments: false

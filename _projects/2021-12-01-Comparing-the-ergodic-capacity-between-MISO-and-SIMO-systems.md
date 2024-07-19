@@ -3,7 +3,7 @@ layout: page
 title: Comparing the ergodic capacity between MISO and SIMO systems
 description: 
 img: assets/img/comp_ergo.png
-importance: 7
+importance: 4
 category: type1
 related_publications: false
 giscus_comments: false

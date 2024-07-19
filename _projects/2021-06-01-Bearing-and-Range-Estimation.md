@@ -3,7 +3,7 @@ layout: page
 title: Bearing and Range Estimation
 description: 
 img: assets/img/bearing.png
-importance: 1
+importance: 6
 category: type1
 related_publications: false
 giscus_comments: false

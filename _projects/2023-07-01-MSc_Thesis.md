@@ -3,7 +3,7 @@ layout: page
 title: IAB in NTN
 description: 
 img: assets/img/thesis.png
-importance: 5
+importance: 1
 category: MSc
 related_publications: false
 giscus_comments: false
