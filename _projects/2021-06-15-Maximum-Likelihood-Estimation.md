@@ -2,7 +2,7 @@
 layout: page
 title: Maximum Likelihood Estimation (MLE)
 description: 
-img: assets/img/12.jpg
+img: assets/img/MLE.png
 importance: 7
 category: type1
 related_publications: false
