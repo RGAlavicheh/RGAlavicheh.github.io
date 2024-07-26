@@ -15,5 +15,6 @@ giscus_comments: false
 **Supervisor**: Dr S. M. Razavizadeh
 
 <div style="text-align: center;">
-  <img src="https://github.com/RGAlavicheh/RGAlavicheh.github.io/assets/94162828/cec17a7e-e67c-42d1-af0d-d1136ce34567" alt="Alt text" style="max-width: 90%;" />
+  <img src="https://github.com/user-attachments/assets/3c5b8c69-f388-4fa0-b6ee-c7fe63daaf5a" alt="Alt text" style="max-width: 90%;" />
 </div>
+
