@@ -22,7 +22,7 @@ In this simulation, we attempted to replicate Figure 2 and Figure 3. We also con
 
 materni.m implements both the [Matérn I](https://github.com/hpaulkeeler/posts/blob/master/MaternHardcoreRectangle/MaternHardcoreRectangle.m) pattern generation and the k-means clustering algorithm.
 
-## Proposed algorithm in [papeyr](https://ieeexplore.ieee.org/abstract/document/8746456)
+## Proposed algorithm
 
 <img src="https://github.com/RGAlavicheh/K-means-On-the-Association-of-Small-Cell-Base-Stations/assets/94162828/2619b2aa-021e-4f2a-8f26-b6a0b88fb2c2" alt="alg" width="400">
 
