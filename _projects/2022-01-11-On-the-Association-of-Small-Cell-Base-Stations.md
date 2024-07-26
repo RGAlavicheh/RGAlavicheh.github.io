@@ -14,7 +14,7 @@ Simulation of the paper "On the Association of Small Cell Base Stations with UAV
 
 In this simulation, we attempted to replicate Figure 2 and Figure 3. We also conducted additional simulations to further explore the topic.
 
-Reference paper: https://ieeexplore.ieee.org/abstract/document/8746456
+[Reference paper](https://ieeexplore.ieee.org/abstract/document/8746456)
 
 <img src="https://github.com/RGAlavicheh/K-means-On-the-Association-of-Small-Cell-Base-Stations/assets/94162828/2ecf915d-d5de-45ef-8c40-4059da5c3000" alt="alg" width="400">
 
