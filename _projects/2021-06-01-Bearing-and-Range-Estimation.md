@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bearing and Range Estimation
-description: 
+description: Estimation Theory Course Project
 img: assets/img/bearing.png
 importance: 6
 category: type1

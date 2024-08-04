@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: 
+description: The following projects are related to the coursework I undertook during my MSc and BSc degrees.
 nav: true
 nav_order: 3
 display_categories: [MSc, other]

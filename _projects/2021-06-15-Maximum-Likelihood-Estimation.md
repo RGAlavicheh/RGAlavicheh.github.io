@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maximum Likelihood Estimation (MLE)
-description: 
+description: Estimation Theory Course Project
 img: assets/img/MLE.png
 importance: 7
 category: type1

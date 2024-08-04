@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Performance Comparison of MIMO
-description: 
+description: MIMO Course Project
 img: assets/img/mimo_perf.png
 importance: 5
 category: MSc

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Comparing the ergodic capacity between MISO and SIMO systems
-description: 
+title: Ergodic capacity in MISO and SIMO
+description: MIMO Course Project
 img: assets/img/comp_ergo.png
 importance: 4
 category: type1

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Association of Small Cell Base Stations
-description: 
+title: K-means for Association of Small Cell BSs
+description: Machine Learning Course Project
 img: assets/img/p1.png
 importance: 2
 category: MSc

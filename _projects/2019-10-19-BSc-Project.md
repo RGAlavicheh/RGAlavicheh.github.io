@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Antenna Simulation
-description: 
-img: assets/img/12.jpg
+description: BSc project
+img: assets/img/antenna_sim.png
 importance: 9
 category: BSc
 related_publications: false

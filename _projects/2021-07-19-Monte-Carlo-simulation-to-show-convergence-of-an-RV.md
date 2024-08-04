@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MC simulation to show convergence of an RV
-description: 
+title: MC simulation
+description: Estimation Theory Course Project
 img: assets/img/MC_sim.png
 importance: 6
 category: type1
